@@ -1,6 +1,6 @@
 [requires]
-boost/1.72.0
-openssl/1.1.1g
+boost/1.75.0
+openssl/1.1.1i
 cpprestsdk/2.10.16
 websocketpp/0.8.2
 zlib/1.2.11
